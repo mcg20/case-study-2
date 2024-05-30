@@ -1,0 +1,23 @@
+{
+  "name": "simple-web-app",
+  "version": "2.3.0",
+  "description": "Doorbell System Dashboard",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "[Doorbell",
+    "Smart",
+    "Dashboard"
+  ],
+  "author": "Nicollleee",
+  "license": "MSC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "mongodb": "^6.6.2",
+    "tls": "^0.0.1"
+  }
+}

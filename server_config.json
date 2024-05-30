@@ -1,0 +1,13 @@
+{
+	"members": "Nicoleee, ",
+    "server_title": "Doorbell System",
+	"server_port": 3000,
+    "database":
+	{
+        "db_uri": "mongodb+srv://ncllxndria:4Qs*m8aGc7!icC9@espcluster.oxz9twx.mongodb.net/?retryWrites=true&w=majority&appName=espcluster",
+        "db_name": "ncllxndria",
+        "db_pass": "4Qs*m8aGc7!icC9",
+        "db_mongodb_database": "esp_doorbell",
+        "db_mongodb_collection": "passerby"
+    }
+}
